@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/  # IMPORTANTE: Garante que as pastas de ambiente virtual não sejam versionadas
+.venv/
