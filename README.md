@@ -15,4 +15,3 @@ Este projeto demonstra a evolução de um sistema de gerenciamento de usuários,
 
 ---
 
-[⬅️ Voltar ao Meu Portfólio Principal](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-usuarios)
