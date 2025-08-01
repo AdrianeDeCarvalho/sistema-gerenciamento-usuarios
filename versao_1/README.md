@@ -37,4 +37,4 @@ Esta é a primeira iteração do sistema de gerenciamento de usuários, focada e
 
 ---
 
-[⬅️ Voltar ao README Principal](../../README.md)
+[⬅️ Voltar ao README Principal](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-usuarios)
