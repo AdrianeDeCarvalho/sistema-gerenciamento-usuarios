@@ -23,7 +23,7 @@ Esta versão foca na **evolução das funcionalidades básicas** da Versão 1, i
 Siga os passos abaixo para executar esta versão do sistema:
 
 1. Certifique-se de ter **Python** instalado em sua máquina.
-2. Navegue até esta pasta (`versao_1/`) no seu terminal.
+2. Navegue até esta pasta (`versao_2/`) no seu terminal.
 3. **Crie e ative um ambiente virtual** (opcional, mas recomendado para isolar as dependências):
    ```bash
    python -m venv venv
@@ -50,6 +50,7 @@ Siga os passos abaixo para executar esta versão do sistema:
 ---
 
 [⬅️ Voltar ao README Principal](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-usuarios)
+
 
 
 
