@@ -1,20 +1,21 @@
-# Sistema de Gerenciamneto de Usuários - Versão 2: Definindo o Modelo de Dados e Criando o Banco de Dados
+# Sistema de Gerenciamneto de Usuários - Versão 2: Melhorias e Buscas
 
-Aqui vamos completar a definição da classe Usuario no SQLAlchemy e criar um script para gerar as tabelas no banco de dados.
+Esta versão foca na **evolução das funcionalidades básicas** da Versão 1, introduzindo melhorias na experiência do usuário e na robustez do sistema.
 
 ---
 
 ### Funcionalidades:
-* ** **
-* ** **
-* ** **
+* **Cadastro de Usuário**: Com validação aprimoradas para maior segurança e integridade dos dados.
+* **Login de Usuário**: Autenticação melhorada.
+* **Listar Usuário**: Exibe todos os usuários cadastrados.
+* **Buscar Usuário**: Nova funcionalidade para encontrar usuários por critérios específico.
 
 ---
 
 ### O que esta versão demonstra:
-* Completou a definição da classe Usuario com os campos necessários e métodos para **hashin** de senha.
-* Criado um script **create_db.py** para inicializar o banco de dados SQLite e criar a tabela usuario.
-* Executar o script para gerar o arquivo **site.db**.
+* **Implementação de Validação de Entrada:** Adição de verificações rigorosas para garantir a qualidade e segurança dos dados inseridos, minimizando erros e comportamentos inesperados.
+* **Melhoria na Entrada do Código:** Refatoração e organização do código para maior modularidade e legibilidade, facilitando a manutenção e a adição de novas funcionalidades.
+* **Funcionalidade de Busca:** Desenvolvimento de uma lógica para permitir a busca eficiente de usuários, aprimorando a usabilidade do sistema.
 
 ---
 
@@ -43,9 +44,10 @@ Siga os passos abaixo para executar esta versão do sistema:
 ---
 
 ### 📁 Código:
-*
-*
+* [app.py](app.py)
+*[create_db.py](create_db.py)
 
 ---
 
 [⬅️ Voltar ao README Principal](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-usuarios)
+
