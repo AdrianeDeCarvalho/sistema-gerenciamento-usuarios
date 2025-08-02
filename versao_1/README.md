@@ -38,11 +38,12 @@ Siga os passos abaixo para executar esta versão do sistema:
    ```
 5. **Execute o script principal:**
    ```bash
-   python sistema_usuarios.py
+   python app.py
    ```
 
 ### 📁 Código:
-* [sistema_usuarios.py](sistema_usuarios.py)
+* [app.py](app.py)
+* [create_db.py](create_db.py)
 
 ---
 
