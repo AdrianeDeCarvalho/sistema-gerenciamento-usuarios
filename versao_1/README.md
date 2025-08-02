@@ -2,15 +2,29 @@
 
 Esta é a primeira iteração do sistema de gerenciamento de usuários, focada em estabelecer as funcionalidades essenciais.
 
+---
+
 ### Funcionalidades:
-* Cadastro de Usuário
-* Login de Usuário
-* Listar Usuários
+* **Cadastro de Usuário** Permite criar novas contas com nome de usuário e senha.
+* **Login de Usuário** Autentica usuários existentes no sistema.
+* **Listar Usuários** Exibe todos os usuários cadastrados.
+
+---
+
+### O que esta versão demonstra:
+* A **estrutura inicial** para o desenvolvimento de um sistema.
+* a implementação de **operações CRUD (Create, Read)** básicas.
+* O entendimento do **fluxo de autenticação** simples.
+
+---
 
 ### Como Rodar:
-1. Certifique-se de ter Python instalado.
+
+Siga os passos abaixo para executar esta versão do sistema:
+
+1. Certifique-se de ter **Python** instalado em sua máquina.
 2. Navegue até esta pasta (`versao_1/`) no seu terminal.
-3. Crie e ative um ambiente virtual (opcional, mas recomendado):
+3. **Crie e ative um ambiente virtual** (opcional, mas recomendado para isolar as dependências):
    ```bash
    python -m venv venv
    # No Windows:
@@ -18,23 +32,18 @@ Esta é a primeira iteração do sistema de gerenciamento de usuários, focada e
    # No macOS/Linux:
    source venv/bin/activate
    ```
-4. Instale as dependências:
+4. **Instale as dependências** do projeto:
    ```bash
    pip install -r requirements.txt
    ```
-5. Execute o script:
+5. **Execute o script principal:**
    ```bash
    python sistema_usuarios.py
    ```
-
-### O que esta versão demonstra:
-* Estrutura inicial do projeto.
-* Operações CRUD básicas (Create, Read).
-* Entendimento do fluxo de autenticação simples.
 
 ### 📁 Código:
 * [sistema_usuarios.py](sistema_usuarios.py)
 
 ---
 
-[⬅️ Voltar ao README Principal](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-usuarios)
+[⬅️ Voltar ao README Principal](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-usuarios/README.md)
