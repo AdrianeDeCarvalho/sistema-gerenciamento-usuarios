@@ -47,4 +47,4 @@ Siga os passos abaixo para executar esta versão do sistema:
 
 ---
 
-[⬅️ Voltar ao README Principal](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-usuarios/README.md)
+[⬅️ Voltar ao README Principal](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-usuarios)
