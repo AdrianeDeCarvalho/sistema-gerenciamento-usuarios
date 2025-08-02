@@ -1,4 +1,4 @@
-# Sistema de Gerenciamneto de Usuários - Versão 2: Melhorias e Buscas
+# Sistema de Gerenciameneto de Usuários - Versão 2: Melhorias e Buscas
 
 Esta versão foca na **evolução das funcionalidades básicas** da Versão 1, introduzindo melhorias na experiência do usuário e na robustez do sistema.
 
@@ -50,5 +50,6 @@ Siga os passos abaixo para executar esta versão do sistema:
 ---
 
 [⬅️ Voltar ao README Principal](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-usuarios)
+
 
 
