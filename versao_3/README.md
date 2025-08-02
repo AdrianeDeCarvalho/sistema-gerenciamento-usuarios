@@ -1,11 +1,10 @@
-# Sistema de Gerenciamento de Usuários - Versão 3: Implementando as Rotas da API - CRUD de Usuários e Validação de Dados Mais Robusta com Pydantic
+# Sistema de Gerenciamento de Usuários - Versão 3: Refatoração e Otimização
 
-
-Implementando as funções para lidar com as operações Create, Read, Update e Delete (CRUD) de usuários, usando o Flask e o SQLAlchemy
+Esta é a versão mais avançada do sistema de gerenciamento de usuários, com foco em **refatoração, robustez e otimização do código**, aplicando boas práticas de desenvolvimento para um sistema mais maduro e sustentável.
 
 ---
 
-*** Funcionalidades:
+### Funcionalidades:
 * **Cadastro de Usuários:** Com validação rigorosa e feedback aprimorado.
 * **Login de Usuário:** Autenticação segura e eficiente.
 * **Listar Usuários:** Exibe todos os usuários registrados.
@@ -14,7 +13,7 @@ Implementando as funções para lidar com as operações Create, Read, Update e 
 
 ---
 
-*** O que esta versão demonstra:
+### O que esta versão demonstra:
 * **Refatoração para Maior Modularidade:** O código foi extensivamente reorganizado em **funções e/ou classes bem definidas**, promovendo a **reutilização de código**, facilitando a **manutenção** e tornando o sistema mais **escalável** para futuras expansões.
 * **Tratamento de Exceções Robusto:** Implementação de mecanismos de **tratamento de erros (try-except)** para gerenciar situações inesperadas de forma elegante, prevenindo falhas do programa e oferecendo uma **experiência do usuário mais estável e confiável**.
 * **Otimização de Operações:** Melhorias na lógica interna para **otimizar a performance** de operações críticas, como busca e persistência de dados.
@@ -22,7 +21,7 @@ Implementando as funções para lidar com as operações Create, Read, Update e 
 
 ---
 
-*** Como Rosar:
+### Como Rodar:
 Siga os passos abaixo para executar esta versão do sistema:
 
 1. Certifique-se de ter **Python** instalado em sua máquina.
@@ -53,4 +52,5 @@ Siga os passos abaixo para executar esta versão do sistema:
 ---
 
 [⬅️ Voltar ao README Principal](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-usuarios)
+
 
