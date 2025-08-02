@@ -6,21 +6,19 @@ Implementando as funções para lidar com as operações Create, Read, Update e 
 ---
 
 *** Funcionalidades:
-* ****
-* ****
-* ****
+* **Cadastro de Usuários:** Com validação rigorosa e feedback aprimorado.
+* **Login de Usuário:** Autenticação segura e eficiente.
+* **Listar Usuários:** Exibe todos os usuários registrados.
+* **Buscar Usuários:** Funcionalidades aprimorada para busca rápida por critérios.
+* **Excluir Usuários:** Nova funcionalidade para remoção segura de contas.
 
 ---
 
 *** O que esta versão demonstra:
-* Implementado todas as rotas CRUD para gerenciar usuários.
-* Aprendendo sobre métodos HTTP e códigos de status relevantes.
-* Entendendo como usar request.json e jsonify() para lidar com dados JSON.
-* Utilizando os métodos de consulta do SQLAlchemy (.query.all(), .query.get_or_404(), .query.filter(), .first()) para interagir com o banco de dados.
-* Incorpora validações para campos obrigatórios e unicidade.
-* Criou um arquivo schemas.py para definir os modelos de validação de entrada (UsuarioCreate, UsuarioUpdate) e um modelo de saída (UsuarioResponse).
-* Atualizou as rotas POST e PUT no app.py para usar os schemas Pydantic para validar os dados de entrada e lidar com ValidationError.
-* Atualizou as rotas GET para usar o UsuarioResponse para formatar a saída, garantindo que senha_hash nunca seja exposta.
+* **Refatoração para Maior Modularidade:** O código foi extensivamente reorganizado em **funções e/ou classes bem definidas**, promovendo a **reutilização de código**, facilitando a **manutenção** e tornando o sistema mais **escalável** para futuras expansões.
+* **Tratamento de Exceções Robusto:** Implementação de mecanismos de **tratamento de erros (try-except)** para gerenciar situações inesperadas de forma elegante, prevenindo falhas do programa e oferecendo uma **experiência do usuário mais estável e confiável**.
+* **Otimização de Operações:** Melhorias na lógica interna para **otimizar a performance** de operações críticas, como busca e persistência de dados.
+* **Aplicações de Boas Práticas de Código:** Demonstração do uso de convenções de código, comentários claros e estrutura lógica para um código de alta qualidade.
 
 ---
 
@@ -55,3 +53,4 @@ Siga os passos abaixo para executar esta versão do sistema:
 ---
 
 [⬅️ Voltar ao README Principal](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-usuarios)
+
