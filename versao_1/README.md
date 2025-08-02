@@ -41,6 +41,8 @@ Siga os passos abaixo para executar esta versão do sistema:
    python app.py
    ```
 
+---
+
 ### 📁 Código:
 * [app.py](app.py)
 * [create_db.py](create_db.py)
