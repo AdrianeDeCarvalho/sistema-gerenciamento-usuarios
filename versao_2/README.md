@@ -45,9 +45,10 @@ Siga os passos abaixo para executar esta versão do sistema:
 
 ### 📁 Código:
 * [app.py](app.py)
-*[create_db.py](create_db.py)
+* [create_db.py](create_db.py)
 
 ---
 
 [⬅️ Voltar ao README Principal](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-usuarios)
+
 
