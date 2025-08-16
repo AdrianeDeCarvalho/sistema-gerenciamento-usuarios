@@ -13,7 +13,7 @@ Esta é a primeira iteração do sistema de gerenciamento de usuários, focada e
 
 ### O que esta versão demonstra:
 * A **estrutura inicial** para o desenvolvimento de um sistema.
-* a implementação de **operações CRUD (Create, Read)** básicas.
+* A implementação de **operações CRUD (Create, Read)** básicas.
 * O entendimento do **fluxo de autenticação** simples.
 
 ---
